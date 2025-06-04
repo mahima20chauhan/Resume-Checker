@@ -90,8 +90,6 @@ Edit
 streamlit run app.py
 Then open the link in your browser (usually: http://localhost:8501)
 
-🙋‍♀️ Author
-Mahima Chauhan
 A project to help job seekers understand resume relevance.
 
 📃 License
